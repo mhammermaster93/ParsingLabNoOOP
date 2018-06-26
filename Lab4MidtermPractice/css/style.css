@@ -1,0 +1,30 @@
+#move
+{
+    margin-left: 3%;
+}
+
+table.highlight tbody tr:hover {
+    background-color: #26a69a !important;
+}
+
+.add-pad
+{
+    padding:2%;
+}
+
+
+.add-margin
+{
+    margin:2%;
+}
+
+/* for buttons */
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: white;
+}
